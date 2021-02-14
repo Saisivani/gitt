@@ -1,1 +1,1 @@
-This is a New Project
+This is the New Project
